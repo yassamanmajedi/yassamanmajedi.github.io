@@ -14,7 +14,7 @@ body.active {
 }
 
 .no-js #experience-timeline>div {
-    background: #fff; /* Changed */
+    background: white; /* Changed */
     padding: 10px;
     margin-bottom: 10px;
     border: 1px solid #dcd9d9;
